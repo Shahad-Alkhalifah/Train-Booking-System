@@ -1,4 +1,4 @@
-# Train Ticket System
+# Train Booking System
 
 A C++ console application for managing train ticket reservations.
 
